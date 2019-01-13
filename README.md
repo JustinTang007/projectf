@@ -1,2 +1,1 @@
-# projectf
-git clone/fetch/pull/push/
+# PROJECT README #
